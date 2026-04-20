@@ -1,0 +1,8 @@
+/expose-localhost
+/expose-localhost.exe
+/dist/
+/cloudflared
+/cloudflared.exe
+/server.log
+.claude
+CLAUDE.md
